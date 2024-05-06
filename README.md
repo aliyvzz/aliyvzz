@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Yavuz</h1>
-<h3 align="center">A passionate computer engineer student from Türkiye</h3>
+<h3 align="center">A passionate computer engineer student from Turkiye</h3>
 
 - 🌱 I’m currently learning **Back-end**
 
