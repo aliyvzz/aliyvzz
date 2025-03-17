@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Yavuz</h1>
 <h3 align="center">A passionate computer engineer student from Turkiye</h3>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Video Game Dev**
 
 - 📫 How to reach me **aliyvzz01@gmail.com**
 
